@@ -1,5 +1,5 @@
 {
-  "name": "whoami",
+  "name": "whoami-exec",
   "version": "1.0.0",
   "description": "A simple module for finding the name of the logged in user",
   "main": "whoami.js",
