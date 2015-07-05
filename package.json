@@ -4,7 +4,7 @@
   "description": "A simple module for finding the name of the logged in user",
   "main": "whoami.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --verbose"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/Stephn-R/whoami/issues"
   },
-  "homepage": "https://github.com/Stephn-R/whoami#readme"
+  "homepage": "https://github.com/Stephn-R/whoami#readme",
+  "devDependencies": {
+    "jest": "^0.1.40",
+    "jest-cli": "^0.4.15"
+  }
 }
