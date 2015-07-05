@@ -1,0 +1,27 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "A simple module for finding the name of the logged in user",
+  "main": "whoami.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephn-R/whoami.git"
+  },
+  "keywords": [
+    "whoami",
+    "who",
+    "am",
+    "i",
+    "username",
+    "system"
+  ],
+  "author": "Stephen Rodriguez <steprodriguez10@gmail.com> (http://www.stephenrodriguez.info/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stephn-R/whoami/issues"
+  },
+  "homepage": "https://github.com/Stephn-R/whoami#readme"
+}
