@@ -1,6 +1,10 @@
 # whoami
 NPM Module for getting the logged in users name
 
+Supported on:
+
+[![Windows OS](https://img.shields.io/badge/OS-Windows-brightgreen.svg)]() [![Mac OS](https://img.shields.io/badge/OS-Mac-brightgreen.svg)]()
+
 ### Installation:
 
 => Run the following npm command:
